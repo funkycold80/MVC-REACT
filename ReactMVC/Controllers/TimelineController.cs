@@ -11,7 +11,7 @@ namespace ReactMVC.Controllers
         // GET: Timeline
         public ActionResult Index()
         {
-            return View();
+            return PartialView("_ReactRoute");
         }
     }
 }

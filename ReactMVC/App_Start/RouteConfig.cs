@@ -13,11 +13,11 @@ namespace ReactMVC
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
-            routes.MapRoute(
-          name: "Timeline",
-          url: "timeline",
-          defaults: new { controller = "Dashboard", action = "Index", id = UrlParameter.Optional }
-      );
+      //    routes.MapRoute(
+      //    name: "Timeline",
+      //    url: "timeline",
+      //    defaults: new { controller = "Dashboard", action = "Index", id = UrlParameter.Optional }
+      //);
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

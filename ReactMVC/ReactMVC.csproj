@@ -184,8 +184,8 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="Scripts\js\2.49b62aba.chunk.js" />
-    <Content Include="Scripts\js\main.0d0e5f5b.chunk.js" />
+    <Content Include="Scripts\js\2.267cf772.chunk.js" />
+    <Content Include="Scripts\js\main.1dba7041.chunk.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
